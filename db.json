@@ -1,0 +1,35 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This is feedback item 1 coming from the backend"
+    },
+    {
+      "id": 2,
+      "rating": 8,
+      "text": "This is feedback item 2 coming from the backend"
+    },
+    {
+      "id": 3,
+      "rating": 9,
+      "text": "This is feedback item 3 coming from the backend"
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "text": "safseg vgezs vcgsdryae",
+      "rating": 8,
+      "id": 6
+    },
+    {
+      "text": "zsdwF bcxfhsf vhggsr",
+      "rating": 9,
+      "id": 7
+    }
+  ]
+}
