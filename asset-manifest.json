@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mearyansingh/feedback-app/static/css/main.e091cffe.css",
+    "main.js": "/mearyansingh/feedback-app/static/js/main.d96206af.js",
+    "static/js/453.ecaafee3.chunk.js": "/mearyansingh/feedback-app/static/js/453.ecaafee3.chunk.js",
+    "index.html": "/mearyansingh/feedback-app/index.html",
+    "main.e091cffe.css.map": "/mearyansingh/feedback-app/static/css/main.e091cffe.css.map",
+    "main.d96206af.js.map": "/mearyansingh/feedback-app/static/js/main.d96206af.js.map",
+    "453.ecaafee3.chunk.js.map": "/mearyansingh/feedback-app/static/js/453.ecaafee3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e091cffe.css",
+    "static/js/main.d96206af.js"
+  ]
+}
